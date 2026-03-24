@@ -11,9 +11,9 @@ I spend my days designing AI systems for the enterprise — and my nights turnin
 | | Project | Description |
 |---|---|---|
 | 🧠 | **[visakh-ai-lab](https://github.com/visakhsankar/visakh-ai-lab)** | AI systems lab — demos, simulations, and architecture experiments |
-| ↳ | RAG Visual Simulator | Step-by-step visual walkthrough of a full RAG pipeline |
-| ↳ | AI Architecture Simulator | Interactive tool to design and compare AI system architectures |
-| ↳ | Agent Systems Playground | *(coming soon)* Hands-on agent workflow experiments |
+| ↳ | [RAG Visual Simulator](https://visakh-ai-lab-mgbbdk4k9rk8gmkk4ey4tp.streamlit.app/) | Step-by-step visual walkthrough of a full RAG pipeline |
+| ↳ | [AI Architecture Simulator](https://visakh-ai-lab-nzsdsdjsm45vyayjpvgfmk.streamlit.app/) | Describe your enterprise use case → get an expert architecture recommendation with live reasoning |
+| ↳ | [Agent Systems Playground](https://visakh-ai-lab-dnyxly82duv6rrxvvs9r9m.streamlit.app/) | Watch an AI agent think, choose tools, and reason its way to an answer — every step exposed |
 | 🧪 | **unlimitedtests** | *(stealth)* |
 
 ---
